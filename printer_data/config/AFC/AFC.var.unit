@@ -24,7 +24,7 @@
             "runout_lane": "lane2",
             "filament_status": "Ready",
             "filament_status_led": "#00cc00",
-            "status": "Loaded",
+            "status": "Tool Loading",
             "dist_hub": 170.0,
             "td1_data": {}
         },
@@ -40,7 +40,7 @@
             "load": false,
             "prep": false,
             "tool_loaded": false,
-            "loaded_to_hub": false,
+            "loaded_to_hub": true,
             "material": "",
             "density": 1.24,
             "diameter": 1.75,
@@ -52,7 +52,7 @@
             "runout_lane": "lane3",
             "filament_status": "Not Ready",
             "filament_status_led": "#ff0000",
-            "status": "Tool Unloading",
+            "status": "None",
             "dist_hub": 105.0,
             "td1_data": {}
         },
@@ -114,13 +114,13 @@
         }
     },
     "system": {
-        "current_load": "lane2",
+        "current_load": null,
         "num_units": 1,
         "num_lanes": 4,
         "num_extruders": 1,
         "extruders": {
             "extruder": {
-                "lane_loaded": "lane2"
+                "lane_loaded": ""
             }
         },
         "bypass": {
