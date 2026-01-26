@@ -24,7 +24,7 @@
             "runout_lane": "lane3",
             "filament_status": "Ready",
             "filament_status_led": "#00cc00",
-            "status": "None",
+            "status": "Ejecting",
             "dist_hub": 170.0,
             "td1_data": {}
         },
@@ -80,7 +80,7 @@
             "runout_lane": "lane2",
             "filament_status": "Ready",
             "filament_status_led": "#00cc00",
-            "status": "Tool Loading",
+            "status": "Error",
             "dist_hub": 110.0,
             "td1_data": {}
         },
