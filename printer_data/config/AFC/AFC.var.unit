@@ -108,7 +108,7 @@
             "runout_lane": "lane1",
             "filament_status": "In Tool",
             "filament_status_led": "#0000ff",
-            "status": "Error",
+            "status": "Tool Unloading",
             "dist_hub": 170.0,
             "td1_data": {}
         }
