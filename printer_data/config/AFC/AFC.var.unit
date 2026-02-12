@@ -96,7 +96,7 @@
             "load": false,
             "prep": false,
             "tool_loaded": false,
-            "loaded_to_hub": true,
+            "loaded_to_hub": false,
             "material": "",
             "density": 1.24,
             "diameter": 1.75,
