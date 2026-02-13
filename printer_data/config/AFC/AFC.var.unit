@@ -52,7 +52,7 @@
             "runout_lane": "lane1",
             "filament_status": "Not Ready",
             "filament_status_led": "#ff0000",
-            "status": "None",
+            "status": "Tool Unloading",
             "dist_hub": 105.0,
             "td1_data": {}
         },
