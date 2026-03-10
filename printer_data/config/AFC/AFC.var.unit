@@ -95,8 +95,8 @@
             "map": "T3",
             "load": false,
             "prep": false,
-            "tool_loaded": true,
-            "loaded_to_hub": false,
+            "tool_loaded": false,
+            "loaded_to_hub": true,
             "material": "ASA",
             "density": 1.07,
             "diameter": 1.75,
@@ -108,7 +108,7 @@
             "runout_lane": "lane2",
             "filament_status": "Not Ready",
             "filament_status_led": "#ff0000",
-            "status": "Tool Unloading",
+            "status": "None",
             "dist_hub": 170.0,
             "td1_data": {}
         }
