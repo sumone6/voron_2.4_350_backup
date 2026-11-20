@@ -52,7 +52,7 @@
             "runout_lane": null,
             "filament_status": "Not Ready",
             "filament_status_led": "#ff0000",
-            "status": "Error",
+            "status": "None",
             "dist_hub": 110.0,
             "td1_data": {}
         },
@@ -120,7 +120,7 @@
         "num_extruders": 1,
         "extruders": {
             "extruder": {
-                "lane_loaded": ""
+                "lane_loaded": null
             }
         },
         "bypass": {
